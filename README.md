@@ -13,4 +13,5 @@ Predicting Credit Risk with Machine Learning
 - Model Training: Trained logistic and linear regression models on the training set and evaluated them on the test set. Logistic regression showed a weighted F1 score of 0.72 and linear regression slightly outperformed it.
 
 - Handling Imbalances: Addressed class imbalances in sample 2 by downsampling the majority class, which did not significantly improve the model's performance on the test set.
-Model Evaluation: Compared logistic and linear regression models using ROC curves. The performance was decent for sample 1 but not ideal for sample 2 due to class imbalances.
+
+- Model Evaluation: Compared logistic and linear regression models using ROC curves. The performance was decent for sample 1 but not ideal for sample 2 due to class imbalances.
