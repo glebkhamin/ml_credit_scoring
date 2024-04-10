@@ -2,7 +2,8 @@
 
 Predicting Credit Risk with Machine Learning
 
-- Dataset Overview: Analyzed a dataset of 1000 bank customers with 20 variables to predict credit risk based on attributes like credit history, employment status, and marital status. The target variable was highly imbalanced, with only 12.2% posing a credit risk.
+- Dataset Overview:
+Analysed a dataset of 1000 bank customers with 20 variables to predict credit risk based on attributes like credit history, employment status, and marital status. The target variable was highly imbalanced, with only 12.2% posing a credit risk.
 
 - Data Cleaning: Removed entries with "X" in the purpose column and split the dataset based on the status of checking accounts into two samples for analysis.
 
